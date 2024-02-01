@@ -1,5 +1,5 @@
 # CS61A_self-study
-It's a record of my road in cs61a self-study.
+It's a record of my road in cs61a self-study.\n
 Study website: https://inst.eecs.berkeley.edu/~cs61a/fa20/
 
 What I have done:
