@@ -4,3 +4,5 @@ Study website: https://inst.eecs.berkeley.edu/~cs61a/fa20/
 ## What I have done:
 ### 2024/2/1 
 week1: computer science & Lab 0.
+### 2024/2/2-2024/2/5
+MCM 2024
